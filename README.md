@@ -1,4 +1,4 @@
-![Banner that says Gonza Robaina - average software developer, alongside a picture of Gonzalo.](https://raw.githubusercontent.com/pepito2k/pepito2k/master/github-banner.png)
+[![Banner that says Gonza Robaina - average software developer, alongside a picture of Gonzalo.](https://raw.githubusercontent.com/pepito2k/pepito2k/master/github-banner.png)](https://gonza.uy)
 
 ## <img height="50em" src="https://github.com/pepito2k/pepito2k/blob/master/memojis/rise-hand.png?raw=true" /> Hi! I'm Pepito! 
 
