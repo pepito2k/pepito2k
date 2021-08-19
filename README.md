@@ -13,8 +13,12 @@ So I can say I have a vast experience on web development though I don't consider
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepito2k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### ✅ TODO:
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
+---
+[![](https://img.shields.io/badge/Facebook-white?logo=facebook&style=flat)](https://www.facebook.com/GonzaloRobaina/) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&style=flat)](https://twitter.com/gonzalorobaina) [![](https://img.shields.io/badge/Instagram-white?logo=instagram&style=flat)](https://www.instagram.com/pepito2k/) [![](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&style=flat)](https://www.linkedin.com/in/gonzalorobaina/)
 
-|  |  |
-| ----------- | ----------- |
-| ![](https://img.shields.io/badge/Facebook-white?logo=facebook&style=flat) ![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&style=flat) ![](https://img.shields.io/badge/Instagram-white?logo=instagram&style=flat) ![](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&style=flat)  | [![Developed by gonza.uy](https://img.shields.io/badge/developed%20by-gonza.uy-red)](https://gonza.uy) |
+[![Developed by gonza.uy](https://img.shields.io/badge/developed%20by-gonza.uy-red)](https://gonza.uy)
