@@ -3,11 +3,13 @@
 ## Hi 👋, I'm Gonzalo
 
 ### ℹ️ About me
-I'm a passionate software developer from Uruguay, currently working for [@tarmac](https://github.com/tarmac) since July 2015 but been learning and developing stuff on the web since early 2000s.
+Hello there! I'm pepito2k, an average software developer from the sunny shores of Uruguay. I have been working in the industry since the early 2000s and have been with [@tarmac](https://github.com/tarmac) since July 2015. I have a passion for writing clean, efficient code and solving complex problems.
 
-So I can say I have a vast experience on web development though I don't consider myself an expert since I am always learning new stuff.
+When I'm not coding, you can find me watching futbol (that's soccer to you Americans), or playing padel with my friends. I also have four furry feline companions who keep me entertained and on my toes.
 
-Most of the things I learned in the development world, where through online tutorials, stackoverflow and lot's of googling around. That's why I started my [blog](https://pepito2k.github.io), I don't think I'm a great blogger but if one of my posts helps someone to learn something, that's great!
+In my free time, you can find me soaking up the sun at the beach or trying out new recipes in the kitchen. I am also an apple fanboy and love all things Mac.
+
+I love collaborating with others and am always looking for opportunities to learn from my peers. Feel free to check out my repositories and leave any feedback you may have. ¡Gracias y hasta luego!
 
 ### 📚 Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
