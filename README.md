@@ -60,6 +60,11 @@ I love collaborating with others and am always looking for opportunities to lear
 
 ### 📝 Latest blog posts
 
+- [Capybara: Debugging Your Specs with save_and_open_screenshot Method](https://gonza.uy/blog/capybara-save-and-open-screenshot/) (Apr 18, 2023)
+- [Git for Beginners: 8 Tips to Get You Started with Version Control](https://gonza.uy/blog/git-for-beginners-8-tips-to-get-you-started-with-version-control/) (Mar 29, 2023)
+- [Demystifying Ruby on Rails Routes for Beginners](https://gonza.uy/blog/demystifying-ruby-on-rails-routes-for-beginners/) (Mar 21, 2023)
+- [Using the skip_before Method in RSpec](https://gonza.uy/blog/using-the-skip_before-method-in-rspec/) (Feb 13, 2023)
+- [The Key Differences Between let and let! in RSpec](https://gonza.uy/blog/the-key-differences-between-let-rspec/) (Feb 2, 2023)
 - [My Ruby on Rails development environment](https://gonza.uy/blog/my-ruby-on-rails-development-environment/) (May 2, 2022)
 - [Ruby on Rails HTTP Status codes](https://gonza.uy/blog/ruby-on-rails-http-status-codes/) (Feb 1, 2022)
 - [Goodbye Jekyll, hello eleventy](https://gonza.uy/blog/goodbye-jekyll-hello-eleventy/) (Oct 15, 2021)
